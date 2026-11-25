@@ -10,6 +10,34 @@ source code here.
 > Kintab is not a BIR cash register. Everything it prints says **NOT AN OFFICIAL RECEIPT**. It never sends SMS or
 > email.
 
+## Screenshots
+
+*From the built-in demo data.*
+
+**The wash board:** every car from check-in to pickup, with bays, washers and timers.
+
+![The wash board](screenshots/board.webp)
+
+**Checking in a car:** plate, services, washers and the condition check, then the claim stub prints.
+
+![Checking in a car](screenshots/check-in.webp)
+
+**Checkout:** promo codes, discounts, the loyalty free wash, cash, GCash, Maya and split payments.
+
+![Checkout](screenshots/checkout.webp)
+
+**The cash shift:** what the drawer should hold, live, and a blind count at closing.
+
+![The cash shift](screenshots/shift.webp)
+
+**Daily payouts:** each washer's commission, less vale, paid from the drawer with a slip to sign.
+
+![Daily payouts](screenshots/payouts.webp)
+
+**Backups:** daily and on close, checked, with a second copy on a USB drive.
+
+![Backups](screenshots/backups.webp)
+
 ## Requirements
 
 - Windows 10 or 11, 64-bit
