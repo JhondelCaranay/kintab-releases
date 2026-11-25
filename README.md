@@ -14,29 +14,65 @@ source code here.
 
 *From the built-in demo data.*
 
-**The wash board:** every car from check-in to pickup, with bays, washers and timers.
+**The dashboard:** Today at a glance: sales, cars, the queue and check-ins by hour.
+
+![The dashboard](screenshots/dashboard.webp)
+
+**The wash board:** Every car from check-in to pickup, with bays, washers and timers.
 
 ![The wash board](screenshots/board.webp)
 
-**Checking in a car:** plate, services, washers and the condition check, then the claim stub prints.
+**Checking in a car:** Plate, services, washers and the condition check, then the claim stub prints.
 
 ![Checking in a car](screenshots/check-in.webp)
 
-**Checkout:** promo codes, discounts, the loyalty free wash, cash, GCash, Maya and split payments.
+**Checkout:** Promo codes, discounts, the loyalty free wash, cash, GCash, Maya and split payments.
 
 ![Checkout](screenshots/checkout.webp)
 
-**The cash shift:** what the drawer should hold, live, and a blind count at closing.
+**A vehicle's page:** Visit history, the condition on record and the loyalty punch card, found by plate.
+
+![A vehicle's page](screenshots/vehicle.webp)
+
+**The cash shift:** What the drawer should hold, live, and a blind count at closing.
 
 ![The cash shift](screenshots/shift.webp)
 
-**Daily payouts:** each washer's commission, less vale, paid from the drawer with a slip to sign.
+**Expenses:** What the carwash spent, from the drawer or not, with totals by category.
+
+![Expenses](screenshots/expenses.webp)
+
+**Inventory:** Shampoo, wax and supplies: usage, stock in and low-stock warnings.
+
+![Inventory](screenshots/inventory.webp)
+
+**Daily payouts:** Each washer's commission, less vale, paid from the drawer with a slip to sign.
 
 ![Daily payouts](screenshots/payouts.webp)
 
-**Backups:** daily and on close, checked, with a second copy on a USB drive.
+**A washer's page:** Commission earned, vale and payouts for one washer.
+
+![A washer's page](screenshots/washer.webp)
+
+**Reports:** Sales, services, payment methods, commissions, expenses, net income and more, to Excel or PDF.
+
+![Reports](screenshots/report.webp)
+
+**The price matrix:** A price for each service and vehicle type, edited like a spreadsheet.
+
+![The price matrix](screenshots/prices.webp)
+
+**Backups:** Daily and on close, checked, with a second copy on a USB drive.
 
 ![Backups](screenshots/backups.webp)
+
+**Built-in help:** Press F1 on any screen for its chapter of the user guide; every chapter prints.
+
+![Built-in help](screenshots/help.webp)
+
+**Dark mode:** Every screen also comes in a dark theme.
+
+![Dark mode](screenshots/board-dark.webp)
 
 ## Requirements
 
